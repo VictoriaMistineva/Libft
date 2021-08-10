@@ -1,6 +1,5 @@
-# Libft
+# Libft Creating your own library of functions in C
 
-Libft. Creating your own library of functions in C
 
 int ft_atoi(const char *str);
 
